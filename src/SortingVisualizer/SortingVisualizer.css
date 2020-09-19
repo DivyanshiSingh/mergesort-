@@ -1,0 +1,23 @@
+.array-container {
+    position: absolute;
+    left: 100px;
+    /* padding: 3px; */
+}
+.btn1{
+    background-color: greenyellow;
+    height: 20px;
+    /* padding: 5px; */
+}
+.btncontainer{
+    padding: 5px;
+}
+button{
+    height: 100px;
+}
+
+.array-bar{
+    width: 2px;
+    background-color: lightcoral;
+    display: inline-block;
+    margin: 0 1px;
+}
